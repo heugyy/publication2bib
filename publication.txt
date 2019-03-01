@@ -1,0 +1,5 @@
+Yanyang Gu, Zongyuan Ge, and Jun Zhou. "Parameter Transfer Learning and Adversarial Domain Adaptation for Skin Cancer Classification", IEEE Journal of Biomedical and Health Informatics, 2019.
+Yanyang Gu, Yi-Ping Partridge, and Jun Zhou. "A Hyperspectral Dermoscopy Dataset for Melanoma Detection", ISIC Workshop @MICCAI, 2018.
+Yanyang Gu, Jun Zhou, and Bin Qian. "Melanoma Detection Based on Mahalanobis Distance Learning and Constrained Graph Regularized Nonnegative Matrix Factorization", IEEE Winter Conference on Applications of Computer Vision, pp. 797-805, 2017.
+Bin Qian, Xiaobo Shen, Yanyang Gu, Zhenmin Tang, and Yuhua Ding. "Double Constrained NMF for Partial Multi-View Clustering", International Conference on Digital Image Computing: Techniques and Applications, pp. 1-7, 2016.
+Lei Tong, Jun Zhou, Yue Li, Yuntao Qian, Yongsheng Gao, "Region-Based Structure Preserving Nonnegative Matrix Factorization for Hyperspectral Unmixing", IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, Vol. 10, No. 4, pp. 1575-1588, 2017.
