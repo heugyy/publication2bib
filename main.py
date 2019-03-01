@@ -1,3 +1,12 @@
+'''
+Author: Yanyang Gu
+01/03/2019
+
+change file_name to the file that saves original pulications and run
+returns output.bib that saves bibtex entries of @inproceedings and @articles
+the output files need to be checked manually at last (Delete or modify the last line after year =).
+'''
+
 f = open('CV_PUBLICATIONS.txt')
 fo = open('output.txt','w')
 
